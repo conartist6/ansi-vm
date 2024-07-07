@@ -1,7 +1,7 @@
 {
   "name": "@bablr/io-vm-node",
   "description": "BABLR I/O VM for Node.js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Conrad Buck<conartist6@gmail.com>",
   "type": "module",
   "files": [
