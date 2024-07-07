@@ -1,3 +1,3 @@
-# @bablr/ansi-vm
+# @bablr/io-vm-node
 
-Helps with styling text using ANSI escape codes in a streaming environment
+A BABLR VM which directs `read` and `write` effects to the Node.js `process.input` and `process.output` streams
